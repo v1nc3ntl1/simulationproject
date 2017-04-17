@@ -1,0 +1,15 @@
+C:\Users\lmh\Documents\Personal\SimulationProject\TestProject\bin\Debug\Sitecore.Kernel.dll
+C:\Users\lmh\Documents\Personal\SimulationProject\TestProject\bin\Debug\FakeOnItemSaveHandler.dll
+C:\Users\lmh\Documents\Personal\SimulationProject\TestProject\bin\Debug\FakeOnItemSaveHandler.Fakes.dll
+C:\Users\lmh\Documents\Personal\SimulationProject\TestProject\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\lmh\Documents\Personal\SimulationProject\TestProject\bin\Debug\FakeOnItemSaveHandler.pdb
+C:\Users\lmh\Documents\Personal\SimulationProject\TestProject\bin\Debug\FakeOnItemSaveHandler.Fakes.xml
+C:\Users\lmh\Documents\Personal\SimulationProject\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\lmh\Documents\Personal\SimulationProject\TestProject\obj\Debug\TestProject.exe
+C:\Users\lmh\Documents\Personal\SimulationProject\TestProject\obj\Debug\TestProject.pdb
+C:\Users\lmh\Documents\Personal\SimulationProject\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\lmh\Documents\Personal\SimulationProject\TestProject\bin\Debug\TestProject.exe
+C:\Users\lmh\Documents\Personal\SimulationProject\TestProject\bin\Debug\TestProject.pdb
+C:\Users\lmh\Documents\Personal\SimulationProject\TestProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lmh\Documents\Personal\SimulationProject\TestProject\bin\Debug\TestDLL.dll
+C:\Users\lmh\Documents\Personal\SimulationProject\TestProject\bin\Debug\TestDLL.pdb

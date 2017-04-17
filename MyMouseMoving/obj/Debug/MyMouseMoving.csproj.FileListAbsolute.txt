@@ -1,0 +1,6 @@
+C:\Users\lmh\Documents\Personal\SimulationProject\MyMouseMoving\bin\Debug\MyMouseMoving.exe.config
+C:\Users\lmh\Documents\Personal\SimulationProject\MyMouseMoving\bin\Debug\MyMouseMoving.exe
+C:\Users\lmh\Documents\Personal\SimulationProject\MyMouseMoving\bin\Debug\MyMouseMoving.pdb
+C:\Users\lmh\Documents\Personal\SimulationProject\MyMouseMoving\obj\Debug\MyMouseMoving.csprojResolveAssemblyReference.cache
+C:\Users\lmh\Documents\Personal\SimulationProject\MyMouseMoving\obj\Debug\MyMouseMoving.exe
+C:\Users\lmh\Documents\Personal\SimulationProject\MyMouseMoving\obj\Debug\MyMouseMoving.pdb

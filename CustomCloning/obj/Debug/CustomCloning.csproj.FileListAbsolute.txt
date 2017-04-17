@@ -1,0 +1,6 @@
+C:\Users\lmh\Documents\Personal\SimulationProject\CustomCloning\bin\Debug\CustomCloning.dll
+C:\Users\lmh\Documents\Personal\SimulationProject\CustomCloning\bin\Debug\CustomCloning.pdb
+C:\Users\lmh\Documents\Personal\SimulationProject\CustomCloning\bin\Debug\Sitecore.Kernel.dll
+C:\Users\lmh\Documents\Personal\SimulationProject\CustomCloning\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lmh\Documents\Personal\SimulationProject\CustomCloning\obj\Debug\CustomCloning.dll
+C:\Users\lmh\Documents\Personal\SimulationProject\CustomCloning\obj\Debug\CustomCloning.pdb

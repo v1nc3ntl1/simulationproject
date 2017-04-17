@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CustomCloning
+{
+  using Sitecore.Data.Clones;
+  using Sitecore.Data.Items;
+
+  public class CustomCloningApi :ItemClonesApi
+  {
+    public override Item CreateClone(Item itemToClone, Item cloneDestination, string cloneName, bool cloneDescendants = true)
+    {
+      cloneName = "VincentApi_" + cloneName;
+      return base.CreateClone(itemToClone, cloneDestination, cloneName, cloneDescendants);
+    }
+  }
+}

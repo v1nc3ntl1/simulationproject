@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FakeOnItemSaveHandler.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:FakeOnItemSaveHandler.Fakes.ShimFakeOnItemSave">
+            <summary>Shim type of FakeOnItemSaveHandler.FakeOnItemSave</summary>
+        </member>
+        <member name="M:FakeOnItemSaveHandler.Fakes.ShimFakeOnItemSave.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:FakeOnItemSaveHandler.Fakes.ShimFakeOnItemSave.#ctor(FakeOnItemSaveHandler.FakeOnItemSave)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:FakeOnItemSaveHandler.Fakes.ShimFakeOnItemSave.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:FakeOnItemSaveHandler.Fakes.ShimFakeOnItemSave.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:FakeOnItemSaveHandler.Fakes.ShimFakeOnItemSave.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:FakeOnItemSaveHandler.Fakes.ShimFakeOnItemSave.Constructor">
+            <summary>Sets the shim of FakeOnItemSave.FakeOnItemSave()</summary>
+        </member>
+        <member name="P:FakeOnItemSaveHandler.Fakes.ShimFakeOnItemSave.OnItemSave2ObjectEventArgs">
+            <summary>Sets the shim of FakeOnItemSave.OnItemSave2(Object e, EventArgs ea)</summary>
+        </member>
+        <member name="P:FakeOnItemSaveHandler.Fakes.ShimFakeOnItemSave.OnItemSaveObjectEventArgs">
+            <summary>Sets the shim of FakeOnItemSave.OnItemSave(Object e, EventArgs ea)</summary>
+        </member>
+        <member name="P:FakeOnItemSaveHandler.Fakes.ShimFakeOnItemSave.StaticConstructor">
+            <summary>Sets the shim of FakeOnItemSave.FakeOnItemSave()</summary>
+        </member>
+        <member name="T:FakeOnItemSaveHandler.Fakes.ShimFakeOnItemSave.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:FakeOnItemSaveHandler.Fakes.ShimFakeOnItemSave.AllInstances.OnItemSave2ObjectEventArgs">
+            <summary>Sets the shim of FakeOnItemSave.OnItemSave2(Object e, EventArgs ea)</summary>
+        </member>
+        <member name="P:FakeOnItemSaveHandler.Fakes.ShimFakeOnItemSave.AllInstances.OnItemSaveObjectEventArgs">
+            <summary>Sets the shim of FakeOnItemSave.OnItemSave(Object e, EventArgs ea)</summary>
+        </member>
+        <member name="T:FakeOnItemSaveHandler.Fakes.ShimFakeOnItemSave2">
+            <summary>Shim type of FakeOnItemSaveHandler.FakeOnItemSave2</summary>
+        </member>
+        <member name="M:FakeOnItemSaveHandler.Fakes.ShimFakeOnItemSave2.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:FakeOnItemSaveHandler.Fakes.ShimFakeOnItemSave2.#ctor(FakeOnItemSaveHandler.FakeOnItemSave2)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:FakeOnItemSaveHandler.Fakes.ShimFakeOnItemSave2.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:FakeOnItemSaveHandler.Fakes.ShimFakeOnItemSave2.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:FakeOnItemSaveHandler.Fakes.ShimFakeOnItemSave2.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:FakeOnItemSaveHandler.Fakes.ShimFakeOnItemSave2.Constructor">
+            <summary>Sets the shim of FakeOnItemSave2.FakeOnItemSave2()</summary>
+        </member>
+        <member name="P:FakeOnItemSaveHandler.Fakes.ShimFakeOnItemSave2.OnItemSaveObjectEventArgs">
+            <summary>Sets the shim of FakeOnItemSave2.OnItemSave(Object e, EventArgs ea)</summary>
+        </member>
+        <member name="P:FakeOnItemSaveHandler.Fakes.ShimFakeOnItemSave2.StaticConstructor">
+            <summary>Sets the shim of FakeOnItemSave2.FakeOnItemSave2()</summary>
+        </member>
+        <member name="T:FakeOnItemSaveHandler.Fakes.ShimFakeOnItemSave2.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:FakeOnItemSaveHandler.Fakes.ShimFakeOnItemSave2.AllInstances.OnItemSaveObjectEventArgs">
+            <summary>Sets the shim of FakeOnItemSave2.OnItemSave(Object e, EventArgs ea)</summary>
+        </member>
+        <member name="T:FakeOnItemSaveHandler.Fakes.StubFakeOnItemSave">
+            <summary>Stub type of FakeOnItemSaveHandler.FakeOnItemSave</summary>
+        </member>
+        <member name="M:FakeOnItemSaveHandler.Fakes.StubFakeOnItemSave.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:FakeOnItemSaveHandler.Fakes.StubFakeOnItemSave.InitializeStub">
+            <summary>Initializes a new instance of type StubFakeOnItemSave</summary>
+        </member>
+        <member name="P:FakeOnItemSaveHandler.Fakes.StubFakeOnItemSave.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:FakeOnItemSaveHandler.Fakes.StubFakeOnItemSave.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:FakeOnItemSaveHandler.Fakes.StubFakeOnItemSave.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:FakeOnItemSaveHandler.Fakes.StubFakeOnItemSave2">
+            <summary>Stub type of FakeOnItemSaveHandler.FakeOnItemSave2</summary>
+        </member>
+        <member name="M:FakeOnItemSaveHandler.Fakes.StubFakeOnItemSave2.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:FakeOnItemSaveHandler.Fakes.StubFakeOnItemSave2.InitializeStub">
+            <summary>Initializes a new instance of type StubFakeOnItemSave2</summary>
+        </member>
+        <member name="P:FakeOnItemSaveHandler.Fakes.StubFakeOnItemSave2.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:FakeOnItemSaveHandler.Fakes.StubFakeOnItemSave2.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:FakeOnItemSaveHandler.Fakes.StubFakeOnItemSave2.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>

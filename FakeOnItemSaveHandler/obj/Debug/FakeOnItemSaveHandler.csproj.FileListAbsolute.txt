@@ -1,0 +1,5 @@
+C:\Users\lmh\Documents\Personal\SimulationProject\FakeOnItemSaveHandler\bin\Debug\FakeOnItemSaveHandler.dll
+C:\Users\lmh\Documents\Personal\SimulationProject\FakeOnItemSaveHandler\bin\Debug\FakeOnItemSaveHandler.pdb
+C:\Users\lmh\Documents\Personal\SimulationProject\FakeOnItemSaveHandler\obj\Debug\FakeOnItemSaveHandler.dll
+C:\Users\lmh\Documents\Personal\SimulationProject\FakeOnItemSaveHandler\obj\Debug\FakeOnItemSaveHandler.pdb
+C:\Users\lmh\Documents\Personal\SimulationProject\FakeOnItemSaveHandler\obj\Debug\FakeOnItemSaveHandler.csprojResolveAssemblyReference.cache
